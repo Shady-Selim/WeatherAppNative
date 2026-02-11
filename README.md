@@ -1,3 +1,5 @@
+https://github.com/user-attachments/assets/666a1ef9-b9d0-420a-8559-b82b2979d125
+
 # Weather App Native - Android Compose
 
 An Android Kotlin Compose application that fetches and displays weather temperature for any city using the wttr.in API.
